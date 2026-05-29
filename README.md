@@ -1,0 +1,166 @@
+<div align="center">
+
+<!-- Animated header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shreya%20Menon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;Full-stack+%2B+ML+%3D+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+```python
+shreya = {
+    "role"       : "AI & Data Analytics Engineer",
+    "location"   : "India 🇮🇳",
+    "focus"      : ["Machine Learning", "Data Analysis", "Full-Stack Dev"],
+    "collab"     : "Open to ML & data-driven projects",
+    "currently"  : "Deepening expertise in AI & Analytics",
+    "contact"    : "shreyam1005@gmail.com"
+}
+```
+
+---
+
+## 🚀 Project Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / Machine Learning
+> Projects leveraging intelligent models, predictions, and automation
+- Predictive modeling & classification pipelines
+- NLP and text analytics systems
+- AI-powered recommendation engines
+
+</td>
+<td width="50%">
+
+### 📊 Data Analysis
+> Transforming raw data into actionable insights
+- Exploratory data analysis dashboards
+- Statistical modeling with Python & R
+- Data visualization with Matplotlib & BI tools
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+> Full-stack applications from database to UI
+- React + Node.js MERN applications
+- RESTful APIs with FastAPI & Express
+- Deployed on Azure, Vercel & Render
+
+</td>
+<td width="50%">
+
+### 🗄️ Databases & Backend
+> Robust data architectures and APIs
+- MongoDB, PostgreSQL, MySQL
+- JWT authentication & secure APIs
+- Firebase real-time applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SM006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SM006&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SM006&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=a78bfa)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=a78bfa)
+
+### AI / Data
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a78bfa)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=a78bfa)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=a78bfa)
+
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=a78bfa)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=a78bfa)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=a78bfa)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)
+
+### Tools & Design
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=a78bfa)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=a78bfa)
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=a78bfa)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/shreya-menon-58abc)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:shreyam1005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/SM006)
+
+*Open to collaborating on ML, data-driven projects, and impactful full-stack builds.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
+
+</div>
