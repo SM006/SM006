@@ -13,14 +13,11 @@
 
 ---
 
-## 🧠 Who Am I?
+## Who Am I?
 
 ```python
 shreya = {
-    "role"       : "AI & Data Analytics Engineer",
-    "location"   : "India 🇮🇳",
     "focus"      : ["Machine Learning", "Data Analysis", "Full-Stack Dev"],
-    "collab"     : "Open to ML & data-driven projects",
     "currently"  : "Deepening expertise in AI & Analytics",
     "contact"    : "shreyam1005@gmail.com"
 }
@@ -28,77 +25,32 @@ shreya = {
 
 ---
 
-## 🚀 Project Highlights
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI / Machine Learning
-> Projects leveraging intelligent models, predictions, and automation
-- Predictive modeling & classification pipelines
-- NLP and text analytics systems
-- AI-powered recommendation engines
-
-</td>
-<td width="50%">
-
-### 📊 Data Analysis
-> Transforming raw data into actionable insights
-- Exploratory data analysis dashboards
-- Statistical modeling with Python & R
-- Data visualization with Matplotlib & BI tools
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 Web Development
-> Full-stack applications from database to UI
-- React + Node.js MERN applications
-- RESTful APIs with FastAPI & Express
-- Deployed on Azure, Vercel & Render
-
-</td>
-<td width="50%">
-
-### 🗄️ Databases & Backend
-> Robust data architectures and APIs
-- MongoDB, PostgreSQL, MySQL
-- JWT authentication & secure APIs
-- Firebase real-time applications
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SM006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SM006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SM006&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SM006&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SM006&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SM006&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=a78bfa&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
@@ -145,7 +97,7 @@ shreya = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
