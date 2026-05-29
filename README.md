@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shreya%20Menon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Data%20Analytics%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shreya%20Menon&fontSize=60&fontColor=ffffff&fontAlignY=38"/>
 
 </div>
 
@@ -20,34 +20,9 @@ shreya = {
     "focus"      : ["Machine Learning", "Data Analysis", "Full-Stack Dev"],
     "currently"  : "Deepening expertise in AI & Analytics",
     "contact"    : "shreyam1005@gmail.com"
+    "experience" : [{GenAI Intern -- Hexaware Technologies}]
 }
 ```
-
----
-
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SM006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SM006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&cache_seconds=86400"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SM006&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&dates=ffffff"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SM006&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area_color=a78bfa&area=true&hide_border=true)
-
-</div>
-
 ---
 
 ## Tech Stack
