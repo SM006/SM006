@@ -77,9 +77,11 @@ shreya = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/shreya-menon-58abc)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:shreyam1005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:shreyam1005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/SM006)
-[![Portfolio](https://shreya-menon.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://shreya-menon.vercel.app)
+
+</div>
 
 *Open to collaborating on ML, data-driven projects, and impactful full-stack builds.*
 
