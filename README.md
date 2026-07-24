@@ -20,7 +20,7 @@ shreya = {
     "focus"      : ["Machine Learning", "Data Analysis", "Full-Stack Dev"],
     "currently"  : "Deepening expertise in AI & Analytics",
     "contact"    : "shreyam1005@gmail.com"
-    "experience" : [{GenAI Intern -- Hexaware Technologies}]
+    "experience" : [{Controls Assurance Intern -- Deloitte}, {GenAI Intern -- Hexaware Technologies}]
 }
 ```
 ---
@@ -79,6 +79,7 @@ shreya = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/shreya-menon-58abc)
 [![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:shreyam1005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/SM006)
+[![Portfolio](https://shreya-menon.vercel.app/)
 
 *Open to collaborating on ML, data-driven projects, and impactful full-stack builds.*
 
